@@ -1,0 +1,2 @@
+# Student-Report-Generator-and-Transferring-Agent
+A Linux terminal application capable of manipulating the information in database, generate individual csv files and email them to the respective candidates. The generate_report script manipulates the files and generates separate csv files for each entry with their information. The send_report script email the files to the candidates by using any one of the mail transfer agents(MTA) and email clients(postfix and gmail).
